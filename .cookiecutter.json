@@ -1,0 +1,12 @@
+{
+  "_output_dir": "/Users/johanbjork/DEV",
+  "_repo_dir": "/Users/johanbjork/.cookiecutters/cookiecutter-homeassistant-custom-component",
+  "_template": "https://github.com/oncleben31/cookiecutter-homeassistant-custom-component",
+  "class_name_prefix": "KstarSolarMonitoring",
+  "domain_name": "kstar_solar_monitoring",
+  "friendly_name": "kstar solar monitoring",
+  "github_user": "phb",
+  "project_name": "kstar-solar-monitoring",
+  "test_suite": "yes",
+  "version": "0.0.0"
+}

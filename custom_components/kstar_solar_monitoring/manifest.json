@@ -1,0 +1,10 @@
+{
+  "domain": "kstar_solar_monitoring",
+  "name": "kstar solar monitoring",
+  "documentation": "https://github.com/phb/kstar-solar-monitoring",
+  "issue_tracker": "https://github.com/phb/kstar-solar-monitoring/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@phb"],
+  "requirements": []
+}
